@@ -1,0 +1,9 @@
+.inputBox {
+  /*height: 30px;*/
+  /*width: 100px;*/
+}
+
+div > .inputBtn{
+  color: black;
+  font-weight: bolder;
+}
